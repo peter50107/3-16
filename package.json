@@ -1,0 +1,31 @@
+{
+  "name": "koa",
+  "version": "1.0.8",
+  "description": "test",
+  "main": "koa.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {},
+  "keywords": [
+    "chinese",
+    "convert",
+    "zh",
+    "cn",
+    "tw"
+  ],
+  "homepage": "https://github.com/peter50107/test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peter50107/test.git"
+  },
+  "author": {
+    "name": "chen wei",
+    "email": "peter50107@gmail.com"
+  },
+  "license": "wei"
+}
